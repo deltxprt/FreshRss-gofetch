@@ -48,7 +48,7 @@ changelog:
       - '^examples:'
 
 kos:
-  - repository: ghcr.io/deltxprt/FreshRss-gofetch
+  - repository: ghcr.io/deltxprt/freshrss-gofetch
     tags:
     - '{{.Version}}'
     - latest
