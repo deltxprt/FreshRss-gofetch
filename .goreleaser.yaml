@@ -48,7 +48,7 @@ changelog:
       - '^examples:'
 
 kos:
-  - repository: ghcr.io/deltxprt/amp-function
+  - repository: ghcr.io/deltxprt/FreshRss-gofetch
     tags:
     - '{{.Version}}'
     - latest
